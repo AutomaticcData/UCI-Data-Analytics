@@ -1,6 +1,6 @@
 # UCI-Data-Analytics
-Pre Work
-Lessons
-Homework Assignments
+* Pre Work
+* Lessons
+* Homework Assignments
 
-#Anthony Alvarez
+# Anthony Alvarez
