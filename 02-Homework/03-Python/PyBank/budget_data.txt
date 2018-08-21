@@ -1,0 +1,11 @@
+********************************************************|
+*** Financial Analysis                     *************|
+*** Budget Data:    budget_data.csv        
+********************************************************|
+Total Months: 41
+Total: $18,971,412.00
+Average Change: $-6,594.12
+Greatest Increase in Profits: Feb 2016 ($1,837,235.00)
+Greatest Decrease in Profits: Aug 2014 ($-1,779,747.00)
+********************************************************|
+
